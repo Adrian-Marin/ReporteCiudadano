@@ -21,7 +21,7 @@ En esta aplicación usted podrá reportar:
   * Obstrucción de paso a los peatones.
   * Grafiti en Edificio del gobierno.
   * Invasión de espacio.
-  * Otro tipo de reporte relacionado a la edificios.
+  * Otro tipo de reporte relacionado a edificios.
 * Medio Ambiente:
   * Basura en la calle.
   * Árbol caído.
